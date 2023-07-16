@@ -1,0 +1,188 @@
+body{
+background-image: url("bg4.jpg");
+background-position: fit;
+margin: 0px;
+}
+.my-image{
+    border-radius: 100px;
+    margin-left: 8px;
+    margin-top: 16px;
+}
+h1{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+}
+.myname{
+    margin-left: 80px;
+    font-size: 20px;
+    margin-top: 6px;
+    font-family:"Dancing Script";
+    color: #fff;
+}
+.introduction{
+    background-color: rgb(219, 169, 104);
+    background-image: url("bg3.jpg");
+    display: flex;
+}
+.information{
+   margin-right: 50px;
+   margin-left: 100px;
+   margin-top: 50px;
+}
+.p1{
+    font-family:"ubuntu" ;
+    font-size: 25px;
+    color: #fff;
+}
+.p2{
+    font-family: 'ubuntu';
+    color: #fff;
+    font-style: italic;
+    font-weight: 1000;
+}
+.p3{
+    font-family: 'Quicksand';
+    font-weight: 1000;
+    font-style: bold;
+    color:#000;
+    padding-left: 40px;
+}
+.p4{
+    margin-left: 30px;
+}
+.my-name-in-intro{
+    font-family: 'kalam';
+    font-size: 35px;
+}
+.student{
+    font-family:"ubuntu" ;
+    font-size: 25px;
+    color: #fff;
+}
+h1{
+    background-color:cyan;
+}
+h2{
+    background-color: yellow;
+    font-size: 40px;
+}
+
+
+h3{
+    text-align: center;
+}
+.flex1{
+    display: flex;
+}
+.box1{
+    font-size: 18px;
+    background-color:beige;
+    margin-top: 20px;
+    margin-left: 20px;
+    width:300px;
+    height: 170px;
+    border-radius: 15px;
+}
+.box2{
+    font-size: 18px;
+    background-color:beige;
+    margin-top: 20px;
+    margin-left: 20px;
+    width:1000px;
+    height: 170px;
+    border-radius: 15px;
+}
+.boxes{
+    display: flex;
+}
+.flex2{
+    display: flex;
+}
+.box3{
+    font-size: 18px;
+    background-color:beige;
+    margin-top: 20px;
+    margin-left: 20px;
+    width:300px;
+    height: 300px;
+    border-radius: 80px;
+    font-family: "dancing script";
+    font-weight: 1000;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.box4{
+    font-size: 18px;
+    background-color:beige;
+    margin-top: 20px;
+    margin-left: 100px;
+    width:550px;
+    height: 300px;
+    font-family: "kalam";
+    font-weight: 1000;
+    margin-left: 10px;
+    border-radius: 40px;
+    font-size: 20px; 
+    
+}
+.flex3{
+    display: flex;
+    margin-left: 120px;
+}
+.my-image:hover{
+   transition-duration: 1000ms;
+   border-radius: 0px;
+   
+}
+.box1:hover{
+    box-shadow: 9px 9px gray;
+    transition-duration: 500ms;
+    background-color: black;
+    color: #fff;
+}
+.box2:hover{
+    box-shadow: 9px 9px gray;
+    transition-duration: 500ms;
+    background-color: black;
+    color: #fff;
+}
+.box3:hover{
+    box-shadow: 9px 9px gray;
+    transition-duration: 500ms;
+    background-color: black;
+    color: #fff;
+}
+.box4:hover{
+    box-shadow: 9px 9px gray;
+    transition-duration: 500ms;
+    background-color: black;
+    color: #fff;
+}
+footer:hover{
+   transition-duration: 500ms;
+   background-color: aqua;
+}
+.introduction:hover{
+    box-shadow: 9px 9px #f67280;
+    transition-duration: 500ms;
+        
+}
+h1:hover{
+    box-shadow: 9px 9px #f67280;
+    transition-duration: 500ms;
+    background-color: aqua;
+}
+.links{
+    float: right;
+}
+.p3:hover{
+    color: #fff;
+}
+h2:hover{
+    background-color: red;
+}
+.mail-id{
+    color: #fff;
+}
+
+
